@@ -1,5 +1,5 @@
 # 💫 About Me:
-An alien wanted to write human programming languages
+An alien wanted to learn human programming languages
 
 
 ## 🌐 Socials:
