@@ -4,7 +4,7 @@
 
 ### DevSecOps • Backend Engineering • Infrastructure Automation
 
-Building secure and efficient systems with Node.js, TypeScript, Docker, Linux, Redis, and MySQL.
+Building efficient systems
 
 [![GitHub followers](https://img.shields.io/github/followers/devseckobz?label=Followers\&style=flat-square\&color=58a6ff\&labelColor=0d1117)](https://github.com/devseckobz?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/devseckobz?affiliations=OWNER\&style=flat-square\&label=Stars\&color=58a6ff\&labelColor=0d1117)](https://github.com/devseckobz?tab=repositories)
